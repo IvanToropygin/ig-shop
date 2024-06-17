@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">IG Shop</string>
+    <string name="header_title" translatable="false">81 IG</string>
+    <string name="special_offers_title">Спецпредложения</string>
+    <string name="achievements_and_awards_title">Достижения и награды</string>
+    <string name="out_new_products_title">Наши новинки</string>
+    <string name="search_hint">Найти спорткар ...</string>
+</resources>
